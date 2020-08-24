@@ -3,7 +3,7 @@
 def speak_to_grandma(phrase)
   if phrase == "I LOVE YOU GRANDMA!"
     "I LOVE YOU TOO PUMPKIN!"
-  elsif phase.downcase
+  elsif phrase == phase.downcase
     "HUH?! SPEAK UP, SONNY!"
    end
 end   
