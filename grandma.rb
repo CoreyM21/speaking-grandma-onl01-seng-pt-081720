@@ -5,6 +5,8 @@ def speak_to_grandma(phrase)
     "I LOVE YOU TOO PUMPKIN!"
   elsif phrase == phase.downcase
     "HUH?! SPEAK UP, SONNY!"
+    elsif phrase == phase.downcase
+    "HUH?! SPEAK UP, SONNY!"
   elsif phrase == phrase.upcase
     "NO, NOT SINCE 1938!"
   else 
