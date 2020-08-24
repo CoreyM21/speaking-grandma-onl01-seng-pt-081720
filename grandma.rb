@@ -1,6 +1,9 @@
 # Write a speak_to_grandma method.
 
-def speak_to_grandma
+def speak_to_grandma(phrase)
+  if phrase.upcase
+    "NO, NOT SINCE 1938!"
+  elsif  
   
 end
 
